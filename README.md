@@ -1,5 +1,7 @@
 # UnrealEngine--Translocator
-Recreation of the Translocator from Unreal Tournament using blueprints in Unreal Engine. Optimized for Unreal Engine 5 Early Access.
+Recreation of the Translocator from Unreal Tournament using blueprints in Unreal Engine
+
+Optimized for Unreal Engine 5.6
 
 **Preview:** https://www.youtube.com/watch?v=ZHWwCo5KyQY
 
